@@ -25,13 +25,13 @@ organizations:
     url: https://www.pharmacy.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Longitudinal analysis 
+  - Trajectory analysis
+  - SGLT2 inhibitors 
 
 # Education to show in About widget
 education:
@@ -43,7 +43,7 @@ education:
       institution: University of Pittsburgh
       year: 2019
     - course: BS in Clinical Pharmacy
-      institution: Harbin Medical Univeristy
+      institution: Harbin Medical University
       year: 2017
 
 # Skills
